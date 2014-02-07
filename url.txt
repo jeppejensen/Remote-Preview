@@ -1,1 +1,1 @@
-http://devicelab.fi
+https://dl.dropboxusercontent.com/u/1071295/prototypes/timelineAB/timelinea.html
